@@ -165,7 +165,7 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**Karthik K**
+**Tarun K**
 Full Stack Developer
 
 ---
